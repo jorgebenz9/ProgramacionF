@@ -1,0 +1,34 @@
+emacs comandos_emacs.txt
+
+Resumen de comandos de Emacs
+Comandos super basicos y necesarios
+Ctrl-g Aborta el ultimo comando
+Ctrl-x Ctrl-s Guardar el archivo
+Ctrl-x Ctrl-c Salir de Emacs
+
+Movimiento:
+Ctrl-f Mueve el cursor hacia el frente
+Ctrl-b Mueve el cursor hacia atras
+Ctrl-n Mueve el cursor hacia el siguiente renglón
+Ctrl-p Mueve el cursor hacia el renglon previo 
+Ctrl-a Inicio del renglon
+Ctrl-e final del renglon
+Ctrl-v Moverse una pagina hacia abajo
+Ctrl-x Ctrl-f Insertar un archivo desde Emacs
+Ctrl-x Ctrl-w Escribir a memoria
+
+ Borrado
+
+Ctrl-w Limpia toda una seccion mandandola a la memoria temporal
+
+
+
+
+
+
+
+
+
+
+
+  

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.9.20)  3 DEC 2015 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.9.20)  3 DEC 2015 19:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -525,20 +525,20 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-
- []
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+LaTeX Font Info:    Try loading font information for U+msa on input line 14.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
@@ -561,47 +561,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 145--147
 
  []
 
-<seno.png, id=16, 481.8pt x 361.35pt>
+<seno.png, id=17, 481.8pt x 361.35pt>
 File: seno.png Graphic file (type png)
  <use seno.png>
 Package pdftex.def Info: seno.png used on input line 150.
 (pdftex.def)             Requested size: 216.80798pt x 162.60599pt.
 
-<Coseno.png, id=17, 481.8pt x 361.35pt>
+<Coseno.png, id=18, 481.8pt x 361.35pt>
 File: Coseno.png Graphic file (type png)
  <use Coseno.png>
 Package pdftex.def Info: Coseno.png used on input line 151.
 (pdftex.def)             Requested size: 216.80798pt x 162.60599pt.
 
-<senoycoseno.png, id=18, 481.8pt x 361.35pt>
+<senoycoseno.png, id=19, 481.8pt x 361.35pt>
 File: senoycoseno.png Graphic file (type png)
  <use senoycoseno.png>
 Package pdftex.def Info: senoycoseno.png used on input line 160.
 (pdftex.def)             Requested size: 481.79881pt x 361.34912pt.
- [3 <./seno.png> <./Coseno.png>] [4 <./senoycoseno.png>] (./Actividad_3.aux
+ [3] [4 <./seno.png> <./Coseno.png> <./senoycoseno.png>] (./Actividad_3.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 4042 strings out of 494917
- 52808 string characters out of 6178371
- 126732 words of memory out of 5000000
- 7196 multiletter control sequences out of 15000+600000
- 9358 words of font info for 36 fonts, out of 8000000 for 9000
+ 4056 strings out of 494917
+ 53013 string characters out of 6178371
+ 125732 words of memory out of 5000000
+ 7210 multiletter control sequences out of 15000+600000
+ 11958 words of font info for 47 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 38i,7n,30p,564b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,7n,30p,509b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmtt12.pfb>
-Output written on Actividad_3.pdf (4 pages, 102230 bytes).
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmtt12.pfb>
+Output written on Actividad_3.pdf (4 pages, 111332 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
